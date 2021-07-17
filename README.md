@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++, Javascript and Python.
 - 💞️ I’m looking to collaborate on *anything*
 - 📫 Reach me with my email: semira.fernando@gmail.com
+- Working on 👉 Netflix Clone with React JS 🚀
 
 <!---
 semiraruth/semiraruth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
