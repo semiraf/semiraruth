@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @semiraruth
+- 👋 Hi, I’m @chickenWing
 - 👀 I’m interested in web developing and creating games with JS and C++ and creating websites with HTML, CSS and JS.
 - 🌱 I’m currently learning C++, Javascript and Python.
 - 💞️ I’m looking to collaborate on *anything*
